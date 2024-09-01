@@ -2,13 +2,10 @@
   <img alt="Salam Programming Language" src="https://raw.githubusercontent.com/SalamLang/Salam/main/assets/logo-box.svg" width="130px">
 </center>
 
-# Salam Programming Language
+# زبان برنامه نویسی سلام (Salam Language)
 
-> A magical documentation site generator.
-
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+زبان برنامه نویسی ساختار یافته، ساده و سریع برای طراحی صفحات وب و سرویس های نرم افزاری
 
 [GitHub](https://github.com/SalamLang/Salam)
-[Get Started](#salam)
+[Get Started English](/en/)
+[Get Started Persian](/fa/)
