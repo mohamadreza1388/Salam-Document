@@ -1,4 +1,4 @@
-![زبان برنامه نویسی سلام](../logo.svg)
+![زبان برنامه نویسی سلام](https://raw.githubusercontent.com/SalamLang/Salam/main/assets/logo-box.svg)
 
 # زبان برنامه نویسی سلام
 
