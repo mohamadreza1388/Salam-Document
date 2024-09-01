@@ -1,4 +1,4 @@
-# Salam-Document
+# Salam Programming Language Document
 
 ## Serving
 
