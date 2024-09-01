@@ -6,6 +6,10 @@
 
 زبان برنامه نویسی ساختار یافته، ساده و سریع برای طراحی صفحات وب و سرویس های نرم افزاری
 
-[GitHub](https://github.com/SalamLang/Salam)
-[Get Started Persian](/fa/)
+[سورس‌کد](https://github.com/SalamLang/Salam)
+[یادگیری سلام](/fa/)
+
+
+<!-- [GitHub](https://github.com/SalamLang/Salam) -->
+<!-- [Get Started Persian](/fa/) -->
 <!-- [Get Started English](/en/) -->
