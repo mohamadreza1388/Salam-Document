@@ -1,4 +1,4 @@
-![Salam Programming Language](logo.svg)
+![Salam Programming Language](https://raw.githubusercontent.com/SalamLang/Salam/main/assets/logo-box.svg)
 
 # Salam Programming Language
 
