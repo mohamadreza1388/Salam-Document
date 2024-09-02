@@ -185,13 +185,149 @@
 
 | نام رنگ    | معادل انگلیسی |
 | -------- | ------- |
-| `قرمز` | red |
-| `آبی` | blue |
+| `بی‌رنگ` | transparent |
+| `بی رنگ` | transparent |
+| `شفاف` | transparent |
 | `سیاه` | black |
 | `سفید` | white |
 | `صورتی` | pink |
+| `بنفش` | purple |
+| `قرمز` | red |
+| `سبز` | green |
+| `زرد` | yellow |
+| `ابی` | blue |
+| `آبی` | blue |
+| `قهوه‌ای` | brown |
+| `قهوه ای` | brown |
 | `نارنجی` | orange |
-
+| `خاکستری` | gray |
+| `طوسی` | silver |
+| `طلایی` | gold |
+| `بژ` | beige |
+| `زیتونی` | olive |
+| `لاجوردی` | navy |
+| `فیروزه‌ای` | turquoise |
+| `فیروزه ای` | turquoise |
+| `نیلی` | indigo |
+| `خرمایی` | crimson |
+| `قرمز تیره` | darkred |
+| `صورتی تیره` | deeppink |
+| `آتشین` | firebrick |
+| `صورتی داغ` | hotpink |
+| `قرمز هندی` | indianred |
+| `اسطوخودوسی` | lavenderblush |
+| `مرجانی روشن` | lightcoral |
+| `صورتی روشن` | lightpink |
+| `زرشکی` | maroon |
+| `رز مه آلود` | mistyrose |
+| `قرمز بنفش کم` | palevioletred |
+| `پوست` | bisque |
+| `مرجانی` | coral |
+| `نارنجی تیره` | darkorange |
+| `سالمون تیره` | darksalmon |
+| `سالمون روشن` | lightsalmon |
+| `نارنجی قرمز` | orangered |
+| `خامه پاپایا` | papayawhip |
+| `هلو` | peachpuff |
+| `سالمون` | salmon |
+| `گوجه فرنگی` | tomato |
+| `خمیر ذرت` | cornsilk |
+| `طلایی تیره` | darkgoldenrod |
+| `خاکی تیره` | darkkhaki |
+| `طلایی روشن` | lightgoldenrodyellow |
+| `زرد روشن` | lightyellow |
+| `خاکی` | khaki |
+| `پرتقالی کم` | palegoldenrod |
+| `زرد کم` | palegoldenrod |
+| `سبز دریایی` | aquamarine |
+| `چارتوز` | chartreuse |
+| `سبز تیره` | darkgreen |
+| `زیتونی تیره` | darkolivegreen |
+| `سبز دریایی تیره` | darkseagreen |
+| `خاکستری تیره` | darkslategray |
+| `سبز جنگلی` | forestgreen |
+| `زرد سبز` | greenyellow |
+| `شهد` | honeydew |
+| `سبز چمنی` | lawngreen |
+| `سبز روشن` | lightgreen |
+| `سبز دریایی روشن` | lightseagreen |
+| `لیمو سبز` | lime |
+| `لیمو سبز روشن` | limegreen |
+| `آب دریایی میانه` | mediumaquamarine |
+| `سبز دریایی میانه` | mediumseagreen |
+| `سبز بهاری میانه` | mediumspringgreen |
+| `سبز زیتونی تیره` | olivedrab |
+| `سبز کم` | palegreen |
+| `سبز دریایی` | seagreen |
+| `سبز بهاری` | springgreen |
+| `فیروزه ای` | teal |
+| `سبز زرد` | yellowgreen |
+| `آبی آسمانی روشن` | aliceblue |
+| `آبی` | aqua |
+| `آبی روشن` | azure |
+| `آبی کاپیتان` | cadetblue |
+| `آبی گل گندم` | cornflowerblue |
+| `آبی آسمانی تیره` | darkcyan |
+| `فیروزه ای تیره` | darkturquoise |
+| `آبی آسمانی عمیق` | deepskyblue |
+| `آبی آسمانی داج` | dodgerblue |
+| `آبی روشن` | lightblue |
+| `فیروزه ای روشن` | lightcyan |
+| `آبی آسمانی روشن` | lightskyblue |
+| `آبی فولادی روشن` | lightsteelblue |
+| `آبی میانه` | mediumblue |
+| `فیروزه ای میانه` | mediumturquoise |
+| `آبی نیمه شب` | midnightblue |
+| `آبی روشن` | paleturquoise |
+| `آبی پودری` | powderblue |
+| `آبی سلطنتی` | royalblue |
+| `آبی آسمانی` | skyblue |
+| `آبی فولادی` | steelblue |
+| `آبی بنفش` | blueviolet |
+| `ارغوانی تیره` | darkmagenta |
+| `بنفش ارکیده تیره` | darkorchid |
+| `آبی ارغوانی تیره` | darkslateblue |
+| `بنفش تیره` | darkviolet |
+| `سرخابی` | fuchsia |
+| `اسطوخودوس` | lavender |
+| `ارکیده میانه` | mediumorchid |
+| `ارغوانی میانه` | mediumpurple |
+| `آبی ارغوانی میانه` | mediumslateblue |
+| `قرمز بنفش میانه` | mediumvioletred |
+| `ارکیده` | orchid |
+| `آلو` | plum |
+| `بنفش` | purple |
+| `بنفش ربکا` | rebeccapurple |
+| `آبی تخته سنگ` | slateblue |
+| `خار مریم` | thistle |
+| `بنفش` | violet |
+| `سفید قدیمی` | antiquewhite |
+| `بادام سفید شده` | blanchedalmond |
+| `چوب بری` | burlywood |
+| `شکلاتی` | chocolate |
+| `کتان` | linen |
+| `موکاسین` | moccasin |
+| `سفید ناواجو` | navajowhite |
+| `توری قدیمی` | oldlace |
+| `پرو` | peru |
+| `قهوه ای گل رز` | rosybrown |
+| `قهوه ای زین اسب` | saddlebrown |
+| `قهوه ای شنی` | sandybrown |
+| `سیه نا` | sienna |
+| `حنا` | tan |
+| `گندمی` | wheat |
+| `گل سفید` | floralwhite |
+| `خاکستری روشن` | gainsboro |
+| `خاکستری سفید` | ghostwhite |
+| `خاکستری` | gray |
+| `خاکستری کم` | lightgry |
+| `خاکستری تخته سنگی روشن` | lightslategray |
+| `نعنایی` | mintcream |
+| `صدف` | seashell |
+| `خاکستری نقره ای` | silver |
+| `خاکستری تخته سنگی` | slategray |
+| `برفی` | snow |
+| `سفید دودی` | whitesmoke |
 
 ### ویژگی رنگ
 
