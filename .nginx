@@ -1,0 +1,22 @@
+server {
+    listen 80;
+    listen [::]:80;
+    server_name docs.salamlang.ir;
+    root /var/www/html/docs.salamlang.ir;
+    index index.html index.htm;
+    error_log docs.salamlang.ir.error.log;
+    access_log docs.salamlang.ir.access.log;
+    location ~ ^/(fa|en)/ {
+        try_files $uri $uri/ /index.html?$query_string;
+        autoindex off;
+    }
+    location / {
+        try_files $uri $uri/ /index.html?$query_string;
+    }
+    location ~ /\. {
+        deny all;
+    }
+    add_header X-Frame-Options "SAMEORIGIN";
+    add_header X-XSS-Protection "1; mode=block";
+    add_header X-Content-Type-Options "nosniff";
+}
