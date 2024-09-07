@@ -18,3 +18,5 @@ jobs:
             cd ${{ secrets.SERVER_PATH }}
             git fetch --all
             git pull
+            cp index.html fa/
+            cp index.html en/
